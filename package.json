@@ -1,0 +1,16 @@
+{
+  "name": "pizza-project",
+  "version": "0.0.0",
+  "description": "",
+  "author": "gcrosmarie@linagora.com",
+  "keywords": [
+    "node"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "dependencies": {
+		"simple-xmpp" : "latest"
+  }
+}
